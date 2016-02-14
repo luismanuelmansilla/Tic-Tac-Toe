@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1448263732 source:c:\users\luism\desktop\tic tac toe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1448335644 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea1\tic tac toe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
